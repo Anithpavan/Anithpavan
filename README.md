@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎓 I'm currently a B.Tech 3rd-year student in **Computer Science & Engineering**  
+- 🎓 I'm Currently a Junior pursuing in **Computer Science & Engineering**  
 - 🤝 Looking forward to collaborate on **AI/ML and Web Development Projects**  
 - 🔧 Currently exploring **DevOps & Deployment**  
 - 🌱 Passionate about **User Interface Design** and solving real-world problems with AI  
