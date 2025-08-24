@@ -50,5 +50,5 @@
 
 ### 🚀 Pinned Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anithpavan&repo=AI-Fruit-Identification&theme=dark)](https://github.com/Anithpavan/AI-Fruit-Identification)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anithpavan&repo=AI-Face-Attendance&theme=dark)](https://github.com/Anithpavan/AI-Face-Attendance)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anithpavan&repo=AI-Face-Recognition-Attendance&theme=dark)](https://github.com/Anithpavan/AI-Face-Recognition-Attendance) 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anithpavan&repo=Crop-Calendar-Awareness&theme=dark)](https://github.com/Anithpavan/Crop-Calendar-Awareness)
