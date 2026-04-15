@@ -35,7 +35,7 @@
 ---
 
 ## 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api/pin/?username=Anithpavan&repo=AI-Fruit-Identification&theme=dark)(https://github.com/UNICEFECAR/parenting-app-bebbo-mobile/pull/1045#event-21301625585)
+![](https://github.com/UNICEFECAR/parenting-app-bebbo-mobile/pull/1045#event-21301625585)
 
 ---
 
