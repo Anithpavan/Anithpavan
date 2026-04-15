@@ -35,7 +35,7 @@
 ---
 
 ## 🔝 Top Contributed Repo
-![]([https://github-contributor-stats.vercel.app/api?username=Anithpavan&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/UNICEFECAR/parenting-app-bebbo-mobile/pull/1045#event-21301625585))
+![](https://github.com/UNICEFECAR/parenting-app-bebbo-mobile/pull/1045#event-21301625585)
 
 ---
 
